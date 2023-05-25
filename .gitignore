@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Chuck Norris Cipher Encoder (Kotlin)/task/build/
+/Chuck Norris Cipher Encoder (Kotlin)/task/out/
+/Chuck Norris Cipher Encoder (Kotlin)/task/out/production/classes/
